@@ -7,7 +7,7 @@ Welcome to **NutriHer**, an AI-powered Android application dedicated to providin
 *   **🤖 AI-Powered Chat:** Engage in a conversation with our intelligent AI assistant to receive tailored health and nutrition recommendations based on your unique profile.
 *   **📋 Comprehensive Health Assessment:** The app starts with a detailed health assessment that captures information about your age, health concerns, activity level, dietary restrictions, symptoms, and specific conditions like PCOS, thyroid issues, and menopause status.
 *   **🧠 Mental Health Tracking:** A dedicated section to track and score your mental well-being across various factors like stress, sleep quality, and mood stability.
-*   **🎯 Personalized for You:** The app automatically uses your health and mental health profiles to generate specific, detailed prompts for the AI, ensuring the advice you get is relevant to your situation.
+*   **🎯 Personalized for You:** The app automatically uses your phsycal health profile to generate specific, detailed prompts for the AI, ensuring the advice you get is relevant to your situation.
 *   **📱 Multiple Screens:** A user-friendly interface with three main sections:
     *   **Health Assessment:** To build and update your profile.
     *   **Chat:** To interact with the AI.
