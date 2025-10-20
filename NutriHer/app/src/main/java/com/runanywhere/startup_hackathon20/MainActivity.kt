@@ -286,16 +286,22 @@ class EnhancedChatViewModel : ViewModel() {
             append("I have ${profile.timeAvailable} available for meal prep and exercise. ")
             append("Please provide personalized nutrition advice and recommendations specific to my situation as a woman over 35.")
             if (profile.hasPCOS.isNotBlank()) {
-                if(profile.hasPCOS.equals("Yes") || profile.hasPCOS.equals("No")) {
-                    append(" I have ${profile.hasPCOS} PCOS.")
-                } else {
+                if(profile.hasPCOS.equals("Yes")) {
+                    append("I am diagnosed with PCOS.")
+                } else if(profile.hasPCOS.equals("No")){
+                    append("I am not diagnosed with PCOS.")
+                }
+                else {
                     append(" I am ${profile.hasPCOS} if I have PCOS. ")
                 }
             }
             if (profile.hasThyroidIssues.isNotBlank()) {
-                if(profile.hasThyroidIssues.equals("Yes") || profile.hasThyroidIssues.equals("No")){
+                if(profile.hasThyroidIssues.equals("No")){
                     append(" I have ${profile.hasThyroidIssues} Thyroid Issues.")
-                } else {
+                } else if(profile.hasThyroidIssues.equals("Yes")){
+                    append(" I have Thyroid Issues.")
+                }
+                else {
                     append(" I am ${profile.hasThyroidIssues} if I have Thyroid Issues. ")
                 }
             }
