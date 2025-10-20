@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [RunAnywhereKotlinSDK-release.aar] C:\Users\lalith\.gradle\caches\8.13\transforms\09e7a998ccea99a61d7bbc27724ee0e4\transformed\RunAnywhereKotlinSDK-release\AndroidManifest.xml:2:1-7:12
 MERGED from [runanywhere-llm-llamacpp-release.aar] C:\Users\lalith\.gradle\caches\8.13\transforms\8fd5b5336ef03e54b056866639227c08\transformed\runanywhere-llm-llamacpp-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\lalith\.gradle\caches\8.13\transforms\0e4ada9c890ea6c69f2c3af41e3923eb\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
@@ -68,28 +68,28 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lalith\.gradle\cach
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lalith\.gradle\caches\8.13\transforms\d61cd19a85bbc1aa9c46706f493d42f9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lalith\.gradle\caches\8.13\transforms\6271010d293e5b3c4a4eb91208a1d5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 	package
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:6:5-8:38
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:6:5-8:38
 	android:maxSdkVersion
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:8:9-35
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:7:9-65
 application
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:10:5-32:19
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:10:5-32:19
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:10:5-32:19
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:10:5-32:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\lalith\.gradle\caches\8.13\transforms\0e4ada9c890ea6c69f2c3af41e3923eb\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\lalith\.gradle\caches\8.13\transforms\0e4ada9c890ea6c69f2c3af41e3923eb\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.work:work-runtime:2.10.0] C:\Users\lalith\.gradle\caches\8.13\transforms\7115034030b64a4f20b8be5d8bcd7112\transformed\work-runtime-2.10.0\AndroidManifest.xml:28:5-143:19
@@ -111,53 +111,53 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lalith\.gradle\cac
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lalith\.gradle\caches\8.13\transforms\6271010d293e5b3c4a4eb91208a1d5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lalith\.gradle\caches\8.13\transforms\6271010d293e5b3c4a4eb91208a1d5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.17.0] C:\Users\lalith\.gradle\caches\8.13\transforms\a729d0b8908cf6daa89192c37f5c50c4\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:17:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:15:9-54
 	android:roundIcon
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:18:9-47
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:18:9-47
 	android:largeHeap
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:13:9-33
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:13:9-33
 	android:icon
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:16:9-42
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:16:9-42
 	android:allowBackup
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:20:9-57
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:20:9-57
 	android:dataExtractionRules
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:14:9-65
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:14:9-65
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:11:9-38
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:11:9-38
 activity#com.runanywhere.startup_hackathon20.MainActivity
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:21:9-31:20
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:21:9-31:20
 	android:label
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:24:13-45
 	android:exported
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:23:13-36
 	android:theme
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:25:13-61
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:25:13-61
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 MERGED from [RunAnywhereKotlinSDK-release.aar] C:\Users\lalith\.gradle\caches\8.13\transforms\09e7a998ccea99a61d7bbc27724ee0e4\transformed\RunAnywhereKotlinSDK-release\AndroidManifest.xml:5:5-44
 MERGED from [RunAnywhereKotlinSDK-release.aar] C:\Users\lalith\.gradle\caches\8.13\transforms\09e7a998ccea99a61d7bbc27724ee0e4\transformed\RunAnywhereKotlinSDK-release\AndroidManifest.xml:5:5-44
 MERGED from [runanywhere-llm-llamacpp-release.aar] C:\Users\lalith\.gradle\caches\8.13\transforms\8fd5b5336ef03e54b056866639227c08\transformed\runanywhere-llm-llamacpp-release\AndroidManifest.xml:5:5-44
@@ -285,9 +285,9 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lalith\.gradle\c
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lalith\.gradle\caches\8.13\transforms\6271010d293e5b3c4a4eb91208a1d5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lalith\.gradle\caches\8.13\transforms\6271010d293e5b3c4a4eb91208a1d5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 	android:targetSdkVersion
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\lalith\NutriHer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalith\lalith2400_NutriHer\NutriHer\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\lalith\.gradle\caches\8.13\transforms\0e4ada9c890ea6c69f2c3af41e3923eb\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
 	android:exported

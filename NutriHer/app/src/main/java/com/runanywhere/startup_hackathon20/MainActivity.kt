@@ -12,7 +12,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.selection.selectable
-import androidx.compose.foundation.shape.CircleShape
+// import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -26,7 +26,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.platform.LocalConfiguration
+// import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -41,7 +41,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.runanywhere.startup_hackathon20.ui.theme.Startup_hackathon20Theme
 import com.runanywhere.sdk.public.RunAnywhere
 import com.runanywhere.sdk.public.extensions.listAvailableModels
-import com.runanywhere.sdk.models.ModelInfo
+// import com.runanywhere.sdk.models.ModelInfo
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
@@ -64,7 +64,7 @@ val PaleLilac = Color(0xFFE8E4F3)
 val GentleViolet = Color(0xFFB39DDB)
 val MutedPlum = Color(0xFF8E6AA8)
 val WarmCream = Color(0xFFFFFDF9)
-val SoftMint = Color(0xFFE8F5E8)
+
 
 // Dark mode colors
 val DarkBackground = Color(0xFF1A1A1A)
@@ -140,7 +140,7 @@ class EnhancedChatViewModel : ViewModel() {
     val statusMessage: StateFlow<String> = _statusMessage
 
     // Default model to use
-    private val defaultModelId = "qwen2.5-0.5b-instruct-q6_k"
+    // private val defaultModelId = "qwen2.5-0.5b-instruct-q6_k"
 
     // Form-specific state
     private val _userProfile = mutableStateOf(HealthProfile())
@@ -286,10 +286,18 @@ class EnhancedChatViewModel : ViewModel() {
             append("I have ${profile.timeAvailable} available for meal prep and exercise. ")
             append("Please provide personalized nutrition advice and recommendations specific to my situation as a woman over 35.")
             if (profile.hasPCOS.isNotBlank()) {
-                append(" I have ${profile.hasPCOS}.")
+                if(profile.hasPCOS.equals("Yes") || profile.hasPCOS.equals("No")) {
+                    append(" I have ${profile.hasPCOS} PCOS.")
+                } else {
+                    append(" I am ${profile.hasPCOS} if I have PCOS. ")
+                }
             }
             if (profile.hasThyroidIssues.isNotBlank()) {
-                append(" I have ${profile.hasThyroidIssues}.")
+                if(profile.hasThyroidIssues.equals("Yes") || profile.hasThyroidIssues.equals("No")){
+                    append(" I have ${profile.hasThyroidIssues} Thyroid Issues.")
+                } else {
+                    append(" I am ${profile.hasThyroidIssues} if I have Thyroid Issues. ")
+                }
             }
             if (profile.menopauseStatus.isNotBlank()) {
                 append(" I am ${profile.menopauseStatus}.")
@@ -342,8 +350,8 @@ fun MainApp(viewModel: EnhancedChatViewModel = viewModel()) {
         }
     }
 
-    val backgroundColor = if (isDarkMode) DarkBackground else SoftLavender
-    val surfaceColor = if (isDarkMode) DarkSurface else WarmCream
+ //   val backgroundColor = if (isDarkMode) DarkBackground else SoftLavender
+   // val surfaceColor = if (isDarkMode) DarkSurface else WarmCream
 
     Box(
         modifier = Modifier

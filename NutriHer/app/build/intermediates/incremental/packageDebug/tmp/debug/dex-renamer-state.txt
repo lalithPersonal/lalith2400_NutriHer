@@ -1,10 +1,10 @@
-#Sun Oct 19 16:50:49 IST 2025
-base.0=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.3=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.4=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.5=C\:\\Users\\lalith\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Sun Oct 19 21:52:01 IST 2025
+base.0=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.4=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.5=C\:\\Users\\lalith\\lalith2400_NutriHer\\NutriHer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=14/classes.dex
